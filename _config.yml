@@ -1,5 +1,5 @@
-remote_theme: jekyll-theme-hydeout
-#theme: jekyll-theme-minimal
+#remote_theme: jekyll-theme-hydeout
+theme: jekyll-theme-minimal
 #remote_theme: bitwiser
 title: HyperGraphQL
 
