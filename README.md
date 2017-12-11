@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[HyperGraphQL-screenshot](test-docs/screenshot.png)
+![HyperGraphQL-screenshot](test-docs/screenshot.png)
 
 ### Jekyll Themes
 
